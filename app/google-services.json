@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "861212802967",
+    "firebase_url": "https://mesajlasma-aad7e.firebaseio.com",
+    "project_id": "mesajlasma-aad7e",
+    "storage_bucket": "mesajlasma-aad7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861212802967:android:58e2a3cadb4c857bc84ed2",
+        "android_client_info": {
+          "package_name": "com.example.chatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861212802967-d7nce0lo0jo9pqapthitfo4j9jjnsglp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatt",
+            "certificate_hash": "05536201f49f164e17e056ce11720b9917e87d39"
+          }
+        },
+        {
+          "client_id": "861212802967-s2qfku9i0i6t0h486m8otul1o847dqe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5tJHfn6FBz_CXw-nveEMaDJNBSKCKFaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861212802967-s2qfku9i0i6t0h486m8otul1o847dqe9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
